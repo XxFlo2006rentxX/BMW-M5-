@@ -20,13 +20,13 @@
   --theme-transparency: rgba(0, 1, 1, 0.3);
 
  
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/966725042832552018/966731689265086514/unknown.png?size=4096);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/951409992181874688/966741735277465691/bmw.png?size=4096);
 
   
   --home-icon-image-position: center center;
 
   
-  --home-icon-image-zoom: 100%;
+  --home-icon-image-zoom: 105%;
 
   
   --server-listing-width: 100px;
